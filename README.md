@@ -38,6 +38,9 @@ $ git clone <https://github.com/Nscmnt/nlw-discovery-proffy>
 # Acesse a pasta do projeto no terminal/cmd
 $ cd insta-dog
 
+# Instale as dependências
+$ npm install
+
 # Execute a aplicação
 $ npm start
 
