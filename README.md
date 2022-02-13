@@ -6,9 +6,11 @@
 </h2>
 
 <p align="center">Aplicativo para você mostra seu Pet para o mundo possibilitando acesso a perfil de outro usuário, comentar fotos, criação de usuários, recuperação de senha, upload de fotos, remoção de sua fotos etc, abordando o máximo do React puro, utilizando como base criação de componentes, manipulação de estados, Hooks personalizados, Context API, React Router, lógica de autenticação utilizando um API pronta pela Origamid, alé da lib Victory para gerar gráficos sobre acessos a fotos.
-</p><p align ="center"> Desenvolvindo no curso React Completo da @Origamid </p>
+</p>
 
-<span align="center">Live: https://insta-dogs.vercel.app/<span>
+  <p align ="center"> Desenvolvindo no curso React Completo da @Origamid </p>
+
+  <p align="center">Live: https://insta-dogs.vercel.app/<p>
 
 <p align = "center">
   <a href="#pre"> Pré-requisito </a> •
